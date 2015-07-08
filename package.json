@@ -1,0 +1,17 @@
+{
+  "name": "pttCourseCrawler",
+  "version": "1.0.0",
+  "description": "get data from ptt NTUcourse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "huli",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.3.0",
+    "log4js": "^0.6.26",
+    "request": "^2.58.0"
+  }
+}
